@@ -3,8 +3,7 @@
 
 ---
 
-<img width="760" height="350" alt="retro_tv" src="https://github.com/user-attachments/assets/d7c33f76-a28c-4b3c-a9e8-d946cadf4f0e" />
-
+<img width="760" height="350" alt="retro_tv" src="https://github.com/user-attachments/assets/4c0a45a2-240c-45a8-9476-17727d6d06b7" />
 
 ---
 
