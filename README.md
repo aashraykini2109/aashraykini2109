@@ -2,7 +2,7 @@
 
 ---
 
-<img src="./retro_tv.gif" width="700" alt="retro crt tv" />
+![retro_tv](YOUR_AUTOMATICALLY_GENERATED_GITHUB_LINK_HERE)
 
 ---
 
