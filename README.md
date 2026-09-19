@@ -1,13 +1,9 @@
-<div align="center">
-
-`● ● ●`
-
 ---
 
-<a href="https://github.com/aashraykini2109">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=3500&pause=1800&color=00F0FF&center=true&vCenter=true&width=750&lines=%24+i+like+to+code;%24+crafting+with+code+%26+art" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://github.com/aashraykini2109">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=800&lines=i+like+to+code++++++++++" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
-
-</div>
