@@ -1,5 +1,13 @@
+<div align="center">
+
+`● ● ●`
+
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&center=true&multiline=true&width=900&size=40&lines=hey,+i+like+to+code+++++++++++)](https://github.com/aashraykini2109)
+<a href="https://github.com/aashraykini2109">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=3500&pause=1800&color=00F0FF&center=true&vCenter=true&width=750&lines=%24+i+like+to+code;%24+crafting+with+code+%26+art" alt="Typing SVG" />
+</a>
 
 ---
+
+</div>
